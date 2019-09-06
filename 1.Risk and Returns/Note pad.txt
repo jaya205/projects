@@ -1,0 +1,12 @@
+s$p 500 or just the s&p is an Ameriacan stock market index based on
+the market capitalization of 500 large companies having common stock 
+listed on the NYSE,NASDAQ,or the cboe BZX Exchange.
+
+dropna()
+the dropna() function is used to remove row or a column from a dataframe
+which has a NaN or no values in it.
+
+pandas:
+need to read the csv files into a pandas data frame.
+
+https://github.com/asteves/datacamp_projects/blob/master/Risk%20and%20Returns:%20The%20Sharpe%20Ratio/notebook.ipynb
